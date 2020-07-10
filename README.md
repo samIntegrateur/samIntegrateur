@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**samIntegrateur/samIntegrateur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Samuel, I'm a Front-end developer living nearby Paris.
+I have been working in development since 2010.
 
-Here are some ideas to get you started:
+I like :
+- HTML/CSS
+- JavaScript (() => ES6+)
+- Typescript
+- Nice UI / UX
+- Agile
+- And a few other things : :coffee: :video_game: :doughnut: :tropical_drink:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm experimenting a lot of fun stuff around React, Node.js, GraphQL, Apollo, etc
